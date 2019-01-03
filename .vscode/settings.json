@@ -41,6 +41,7 @@
       "optional": "cpp",
       "sstream": "cpp",
       "tuple": "cpp",
-      "utility": "cpp"
+      "utility": "cpp",
+      "set": "cpp"
    }
 }

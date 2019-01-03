@@ -8,7 +8,7 @@
          "name": "(gdb) Launch",
          "type": "cppdbg",
          "request": "launch",
-         "program": "${workspaceFolder}/w2_09_queue/a.out",
+         "program": "${workspaceFolder}/white/w2_10_do_list/a.out",
          "args": [],
          "stopAtEntry": false,
          "cwd": "${workspaceFolder}",
