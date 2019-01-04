@@ -8,7 +8,7 @@
          "name": "(gdb) Launch",
          "type": "cppdbg",
          "request": "launch",
-         "program": "${workspaceFolder}/white/week3/05_names2/a.out",
+         "program": "${workspaceFolder}/white/week4/07_table/a.out",
          "args": [],
          "stopAtEntry": false,
          "cwd": "${workspaceFolder}",
